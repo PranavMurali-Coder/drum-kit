@@ -1,1 +1,2 @@
-This is a drum-kit created using html, css and javascript.
+## Drum Kit
+**Enjoy this drumkit created using ```HTML5```, ```CSS3```, and ```JavaScript```**
